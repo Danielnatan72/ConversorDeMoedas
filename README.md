@@ -67,7 +67,7 @@ api.key=sua_chave_aqui
 3. Compile os arquivos Java. Exemplo usando terminal:
 
 ```bash
-javac -cp ".:gson-2.10.1.jar" src/com/danielnatan/conversor/**/*.java
+javac -cp ".:gson-2.10.1.jar" src/com/danielnatan/conversor/main.java/src
 ```
 
 4. Execute o programa com:
